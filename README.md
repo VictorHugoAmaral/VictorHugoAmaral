@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with learning software development
 - 💬 Ask me about everything
 - 📫 How to reach me: ...
-- ⚡ Fun fact: Im a big fan of Pokemon Franchise but i still don't have a Nintendo Switch or 3DS
+- ⚡ Fun fact: Im a big fan of Pokemon Franchise but i still don't have a Nintendo Switch
 
 <div align="center">
   <a href="https://github.com/VictorHugoAmaral">
