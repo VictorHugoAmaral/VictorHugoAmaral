@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front-end, UI/UX and tray development (Freelancer)
+- 🔭 I’m currently working on Front-end, UI/UX and Tray development (Freelancer)
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with learning software development
