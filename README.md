@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/VictorHugoAmaral">
-  <img height="180" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div style="display: inline_block"><br>
