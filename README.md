@@ -8,8 +8,7 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Im a big fan of Pokemon Franchise but i still don't have a Nintendo Switch
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhugoamaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
