@@ -10,7 +10,7 @@
 
 <div>
   <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img height="190em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
  <div style="display: inline_block"><br>
