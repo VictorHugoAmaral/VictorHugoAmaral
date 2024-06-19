@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Im a big fan of Pokemon Franchise but i still don't have a Nintendo Switch
 
 <div>
-  <img height="210em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
   <img height="190em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugoAmaral&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
